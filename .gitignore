@@ -1,0 +1,6 @@
+/node_modules
+
+
+# ignore this in public repo
+/config/config.json
+/Procfile
